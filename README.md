@@ -6,12 +6,12 @@ The votes are stored in the election_results.csv file, located in the Resources 
 
 The output of the analysis is the following:
 
-Election Results
+<p>Election Results</p>
 -------------------------
-Total Votes: <i>total vote count</i>
+<p>Total Votes: <i>total vote count</i>
 -------------------------
 <i>name</i>: <i>vote percentage</i> (<i>vote count</i>)<br/>
 <i>name</i>: <i>vote percentage</i> (<i>vote count</i>)<br/>
 <i>name</i>: <i>vote percentage</i> (<i>vote count</i>)<br/>
 ...
-
+</p>
