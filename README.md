@@ -15,8 +15,8 @@ The output of the analysis is the following:
 <i>name</i>: <i>vote percentage</i> (<i>vote count</i>)<br/>
 ...<br/>
 -------------------------<br/>
-  Winner: <i>winner name</i>
-  Winning Vote Count: <i>winner vote count</i>
-Winning Percentage: <i>winnder vote percentage</i>
+  Winner: <i>winner name</i><br/>
+  Winning Vote Count: <i>winner vote count</i><br/>
+Winning Percentage: <i>winnder vote percentage</i><br/>
 -------------------------<br/>
 </p>
