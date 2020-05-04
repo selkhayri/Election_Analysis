@@ -1,22 +1,35 @@
 # Election_Analysis
 
-The purpose of this project is to tally the votes from an election, determine the vote counts and percentages for each candidate, and, finally, determine who the winning candidate of the election. 
+## Project Overview
+A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election.
 
-The votes are stored in the election_results.csv file, located in the Resources folder. The results of the analysis are outputted to the election_analysis.txt file, located in the analysis folder.
+1. Calculate the total number of votes cast.
+2. Get a complete list of candidates who received votes.
+3. Calculate the total number of votes each candidate received.
+4. Calculate the percentage of votes each candidate won.
+5. Determine the winner of the election based on popular vote.
 
-The output of the analysis is the following:
+## Resources
+- Data Source: election_results.csv
+- Software: Python 3.8.2, Visual Studio Code, 1.44.2
 
-<p>Election Results</p>
--------------------------
-<p>Total Votes: <i>&lt;total vote count&gt;</i><br/>
--------------------------<br/>
-<i>name</i>: <i>&lt;vote percentage&gt;</i> (<i>&lt;vote count&gt;</i>)<br/>
-<i>name</i>: <i>&lt;vote percentage&gt;</i> (<i>&lt;vote count&gt;</i>)<br/>
-<i>name</i>: <i>&lt;vote percentage&gt;</i> (<i>&lt;vote count&gt;</i>)<br/>
-...<br/>
--------------------------<br/>
-  Winner: <i>&lt;winner name&gt;</i><br/>
-  Winning Vote Count: <i>&lt;winner vote count&gt;</i><br/>
-Winning Percentage: <i>&lt;winnder vote percentage&gt;</i><br/>
--------------------------<br/>
-</p>
+## Summary
+The analysis of the election showed that:
+- There were 369,711 votes cast in the election.
+- The candidates were the following:
+	- Charles Casper Stockham
+	- Diana DeGette
+	- Raymon Anthony Doane
+- The candidate results were the following:
+	- Charles Casper Stockham won 23.0% of the vote and 85,213 votes.
+	- Diana DeGette won 73.8% of the vote and 272,892 votes.
+	- Raymon Anthony Doane won 3.1% of the vote and 11,606 votes.
+- The winner of the election was the following:
+	- Diana DeGette won 73.8% of the vote and 272,892 votes.
+
+## Challenge Overview
+
+
+## Challenge Summary
+
+	
