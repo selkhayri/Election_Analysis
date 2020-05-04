@@ -10,9 +10,9 @@ The output of the analysis is the following:
 -------------------------
 <p>Total Votes: <i>&lt;total vote count&gt;</i><br/>
 -------------------------<br/>
-<i>name</i>: <i>&lt;vote percentage&gt;</i> (<i>vote count</i>)<br/>
-<i>name</i>: <i>&lt;vote percentage&gt;</i> (<i>vote count</i>)<br/>
-<i>name</i>: <i>&lt;vote percentage&gt;</i> (<i>vote count</i>)<br/>
+<i>name</i>: <i>&lt;vote percentage&gt;</i> (<i>&lt;vote count&gt;</i>)<br/>
+<i>name</i>: <i>&lt;vote percentage&gt;</i> (<i>&lt;vote count&gt;</i>)<br/>
+<i>name</i>: <i>&lt;vote percentage&gt;</i> (<i>&lt;vote count&gt;</i>)<br/>
 ...<br/>
 -------------------------<br/>
   Winner: <i>&lt;winner name&gt;</i><br/>
