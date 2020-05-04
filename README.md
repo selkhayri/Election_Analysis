@@ -8,15 +8,15 @@ The output of the analysis is the following:
 
 <p>Election Results</p>
 -------------------------
-<p>Total Votes: <i>total vote count</i><br/>
+<p>Total Votes: <i>&lt;total vote count&gt;</i><br/>
 -------------------------<br/>
-<i>name</i>: <i>vote percentage</i> (<i>vote count</i>)<br/>
-<i>name</i>: <i>vote percentage</i> (<i>vote count</i>)<br/>
-<i>name</i>: <i>vote percentage</i> (<i>vote count</i>)<br/>
+<i>name</i>: <i>&lt;vote percentage&gt;</i> (<i>vote count</i>)<br/>
+<i>name</i>: <i>&lt;vote percentage&gt;</i> (<i>vote count</i>)<br/>
+<i>name</i>: <i>&lt;vote percentage&gt;</i> (<i>vote count</i>)<br/>
 ...<br/>
 -------------------------<br/>
-  Winner: <i>winner name</i><br/>
-  Winning Vote Count: <i>winner vote count</i><br/>
-Winning Percentage: <i>winnder vote percentage</i><br/>
+  Winner: <i>&lt;winner name&gt;</i><br/>
+  Winning Vote Count: <i>&lt;winner vote count&gt;</i><br/>
+Winning Percentage: <i>&lt;winnder vote percentage&gt;</i><br/>
 -------------------------<br/>
 </p>
