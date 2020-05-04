@@ -8,8 +8,8 @@ The output of the analysis is the following:
 
 <p>Election Results</p>
 -------------------------
-<p>Total Votes: <i>total vote count</i>
--------------------------
+<p>Total Votes: <i>total vote count</i><br/>
+-------------------------<br/>
 <i>name</i>: <i>vote percentage</i> (<i>vote count</i>)<br/>
 <i>name</i>: <i>vote percentage</i> (<i>vote count</i>)<br/>
 <i>name</i>: <i>vote percentage</i> (<i>vote count</i>)<br/>
