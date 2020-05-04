@@ -10,8 +10,8 @@ Election Results
 -------------------------
 Total Votes: <i>total vote count</i>
 -------------------------
-<i>name</i>: <i>vote percentage</i> (<i>vote count</i>)
-<i>name</i>: <i>vote percentage</i> (<i>vote count</i>)
-<i>name</i>: <i>vote percentage</i> (<i>vote count</i>)
+<i>name</i>: <i>vote percentage</i> (<i>vote count</i>)<br/>
+<i>name</i>: <i>vote percentage</i> (<i>vote count</i>)<br/>
+<i>name</i>: <i>vote percentage</i> (<i>vote count</i>)<br/>
 ...
 
