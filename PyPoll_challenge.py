@@ -31,7 +31,7 @@ with open(file_to_load) as election_data:
     file_reader = csv.reader(election_data)
     # Read the header row.
     headers = next(file_reader)
-    # Print each row in the CSV file.
+    
     for row in file_reader:
         # Add to the total vote count.
         total_votes += 1
@@ -107,7 +107,7 @@ winning_candidate_summary = (
     f"Winning Percentage: {winning_percentage:.1f}%\n"
     f"-------------------------\n")
 
-#  Add the winning candidates results to election_results
+#  Add the winning candidate results to election_results
 election_results = election_results + winning_candidate_summary
 
 # Print the election_results to the terminal
