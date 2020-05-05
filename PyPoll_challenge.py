@@ -74,7 +74,7 @@ election_results = election_results + "County Votes:\n"
 # Add the county names, total votes, and vote percentages to election_results 
 for name, votes in county_votes.items():
     percentVotes = votes / total_votes * 100
-    election_results = election_results + f"{name}: {percentVotes:.1F}% ({votes})\n"
+    election_results = election_results + f"{name}: {percentVotes:.1F}% ({votes:,})\n"
 
     # Find the county with the largest turnout, set largest_turnout to the county name and largest_turnout_count to the turnout
     if votes > largest_turnout_count:

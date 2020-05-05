@@ -33,7 +33,25 @@ The analysis of the election showed that:
 
 ## Challenge Overview
 
+The Colorado Board of Elections employee wants you to extend the election audit of the recent local congressional election to get voter turnout numbers by cong
+
+1. Get a complete list of counties
+2. Calculate the total number of votes that were cast in each county
+3. Calculate the percentage of votes that were cast in each county.
+4. Determine the county with the largest voter turnout.
 
 ## Challenge Summary
 
-	
+The analysis of the election results shows the following:
+
+- The counties in which votes were cast are the following:
+  - Jefferson
+  - Denver
+  - Arapahoe
+- The county vote tallies are the following:
+  - In Jefferson county, 10.5% of the vote and 38,855 votes were cast.
+  - In Denver county, 82.8% of the vote and 306,055 votes were cast.
+  - In Arapahoe county, 6.7% of the vote and 24,801 votes were cast.
+- The county with the largest voter turnout was the following:
+  - In Denver county, 82.8% of the vote and 306,055 votes were cast.
+  
