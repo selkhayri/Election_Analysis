@@ -17,7 +17,9 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 
 ## Summary
 
-The analysis of the election showed that:
+The analysis of the election showed the following:
+
+![](Resources/PercentVotesByCandidate.png)
 
 - There were 369,711 votes cast in the election.
 - The candidates were the following:
@@ -43,6 +45,8 @@ The Colorado Board of Elections employee wants you to extend the election audit 
 ## Challenge Summary
 
 The analysis of the election results shows the following:
+
+![](Resources/PercentVotesByCounty.png)
 
 - The counties in which votes were cast are the following:
   - Jefferson
